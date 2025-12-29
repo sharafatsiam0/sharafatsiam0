@@ -1,4 +1,4 @@
-<h3 align="center">Passionate about PHP 🐘 and WordPress Development 💜h</h3>
+<h3 align="center">Passionate about PHP 🐘 and WordPress Development 💜</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharafatsiam0&label=Profile%20views&color=0e75b6&style=flat" alt="sharafatsiam0" /> </p>
 
